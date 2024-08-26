@@ -4,7 +4,7 @@
 
 A real-time multiplayer chess game inspired by chess.com, built with Node.js, React, Express, and Socket.io for server communication. The game allows two players to connect from the same device and play against each other turn by turn (as Black and White).
 
-![chess](https://github.com/user-attachments/assets/1082bc28-3fa2-43b5-bf86-7219feb99458)
+![Screenshot 2024-08-26 235706](https://github.com/user-attachments/assets/b4811e28-8709-47c1-91b8-2e5e6679632e)
 
 
 <h1>Features</h1>
